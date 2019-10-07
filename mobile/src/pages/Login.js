@@ -33,6 +33,7 @@ export default function Login({ navigation })  {
     return (
         <KeyboardAvoidingView enabled={Platform.OS === 'ios' } behavior="padding" style ={styles.container} >
             <Image source={logo}/>
+            
             <View style={styles.form}>
                 <Text style={styles.label}>SEU E-MAIL *</Text>
                 <TextInput
