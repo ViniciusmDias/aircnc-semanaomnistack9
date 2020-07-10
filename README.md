@@ -24,7 +24,7 @@
   yarn install
 ```
 
-- In the root directory (/backend) of the project, start the application in development mode at [localhost](http://localhost:3333) with the command:
+- In the root directory (/backend) of the project, start the application in development mode at http://localhost:3333 with the command:
 
 ```js
   yarn dev
@@ -39,7 +39,7 @@
   yarn install
 ```
 
-- In the root directory (/frontend) of the project, start the application in development mode at [localhost](http://localhost:3000) with the command:
+- In the root directory (/frontend) of the project, start the application in development mode at http://localhost:3000 with the command:
 
 ```js
   yarn start
