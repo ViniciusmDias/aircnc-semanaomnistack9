@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  Project Name: <strong>AirCnC/strong>
+  Project Name: <strong>AirCnC</strong>
 </p>
  
 
