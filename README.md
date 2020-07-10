@@ -1,5 +1,5 @@
 <h3 align="center">
-  AirCnC</strong>
+  <strong>AirCnC</strong>
 </h3>
 
 <p align="center">
